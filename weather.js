@@ -2,6 +2,7 @@
 //http://api.wunderground.com/api/99dfe35fcb7de1ee/conditions/q/IE/Cork.json`);
 
 //this.apiKey = '18619aeeedf1dbe8633af76730b14797';
+// with thanks from Brad Traversy
 
 class Weather {
   constructor(city, state) {
