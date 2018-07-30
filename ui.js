@@ -1,5 +1,7 @@
 // ui.js
 
+// Added this message in b1
+
 class UI {
   constructor() {
     this.location = document.getElementById('w-location');
